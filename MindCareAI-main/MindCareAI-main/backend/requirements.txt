@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+deepface
+opencv-python
+python-dotenv
